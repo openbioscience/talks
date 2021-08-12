@@ -8,3 +8,16 @@
 - [Production of Novel Antibiotics - Eriko Takano (YouTube, iBiology)](https://www.youtube.com/watch?v=7Sk0TCo-qoQ)
 - [Metabolic Engineering and Synthetic Biology of Yeast - Jens Nielsen (YouTube, iBiology)](https://www.youtube.com/watch?v=mL6NwbmEum4)
 - [Engineering bacteria with CRISPR - David Bikard (YouTube, iBiology)](https://www.youtube.com/watch?v=r-xOInbCB5s)
+- [Technical Challenges in Synthetic Biology - Vivek Mutalik (YouTube, iBiology)](https://www.youtube.com/watch?v=RQFH2K7PQbc)
+- [Lecture 21. Synthetic Biology: From Parts to Modules to Therapeutic Systems - Ron Weiss](https://www.youtube.com/watch?v=kKyrR0cFrEg)
+  - MIT 7.91J Foundations of Computational and Systems Biology
+
+## Visualization
+- [Yifan Cheng: Single Particle Cryo-EM 1](https://www.youtube.com/watch?v=Bk5lBvwSe-s)
+- [Yifan Cheng: Single particle Cyro-EM 2: Membrane proteins](https://www.youtube.com/watch?v=tkrEKhiqhEk)
+
+## Genome sequencing
+- [Library Prep for NGS 1](https://www.youtube.com/watch?v=OnPQ7qtuhAg)
+- [Library Prep for NGS 2](https://www.youtube.com/watch?v=fTgqPAClJ0A)
+- [Library Prep for NGS 3](https://www.youtube.com/watch?v=ZEqyAAoUyhA)
+
