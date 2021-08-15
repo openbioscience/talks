@@ -21,3 +21,7 @@
 - [Library Prep for NGS 2](https://www.youtube.com/watch?v=fTgqPAClJ0A)
 - [Library Prep for NGS 3](https://www.youtube.com/watch?v=ZEqyAAoUyhA)
 
+## Protein-Ligand interactions
+- [How to Study Protein-Ligand Interactions through Molecular Docking](https://www.youtube.com/watch?v=rVXrbTeaywc)
+- [PyRX Docking Tutorial](https://www.youtube.com/watch?v=2t12UlI6vuw)
+- [PyMOL: Active sites in minutes (using only sequence info!)](https://www.youtube.com/watch?v=mBlMI82JRfI)
